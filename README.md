@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on/have plans for: Writing blogs and building small little SAAS products 😇
 - 🌱 I’m currently learning: GraphQL 
 - 👯 I’m looking to collaborate on: Node Javascript and React projects
