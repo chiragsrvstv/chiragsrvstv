@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🚀 I'm a software developer who loves working with Javascript and Typescript
+- 🚀 I'm a software engineer who loves working with Javascript and Typescript
 - ✍️  I write at https://blog.chiragsrvstv.dev/
 - 🔭 I’m currently working on/have plans for: Writing more blog posts and building small little SAAS products 😇
 - 🌱 I’m currently learning: Swift 
