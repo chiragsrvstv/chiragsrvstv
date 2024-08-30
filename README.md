@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-- 🚀 I'm a software engineer who loves working with Javascript and Typescript
+- 🚀 Building silly SAAS over the internet.
 - ✍️  I write at https://blog.chiragsrvstv.dev/
-- 🔭 I’m currently working on/have plans for: Writing more blog posts and building small little SAAS products 😇
-- 🌱 I’m currently learning: Swift 
-- 👯 I’m looking to collaborate on: Node Javascript and React projects
 - 💬 Ask me about: Javascript or React 
 - 📫 How to reach me: https://twitter.com/ChiragSrvstv
 - 😄 Pronouns: He/Him
